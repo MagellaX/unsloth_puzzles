@@ -1,3 +1,1 @@
-# unsloth_puzzles
-
-For founding engineer or ML engineer 
+open source(proprietary not included)
